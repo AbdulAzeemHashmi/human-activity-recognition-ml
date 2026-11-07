@@ -139,15 +139,13 @@ human-activity-recognition-ml/
 |
 |-- human-activity-recognition.ipynb          # Main notebook (code, plots, results)
 |-- human-activity-recognition-report.pdf     # Written report with figures and conclusions
-|-- problem-statement.pdf                    # Problem statement
-`-- README.md                                 # You are here
+`-- README.md                               
 ```
 
 | File | What it contains |
 |---|---|
 | `human-activity-recognition.ipynb` | Full code: exploration, scaling, PCA, models, evaluation |
 | `human-activity-recognition-report.pdf` | Short report that explains what was done, why, and what was learned |
-| `problem-statement.pdf` | The original problem statement |
 
 > The notebook reads `train.csv` and `test.csv` from `/content/`. Download them from Kaggle (links above) and place them there, or change the path in the first code cell.
 
